@@ -1,2 +1,2 @@
 # Twitter-Crawler
-Crawl two-hop follower network
+Crawl two-hop followers network
